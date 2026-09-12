@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "axios": "latest",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "javascript-obfuscator": "^5.7.0"
   },
   "engines": {
     "node": ">=14"
