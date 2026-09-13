@@ -1,0 +1,6 @@
+# runtime artifacts
+.npm/
+.tmp/
+traffic.dat
+config.conf
+node_modules/
